@@ -1,9 +1,12 @@
-
-
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <h1>Teste</h1>
+    <>
+
+      <Navbar />
+
+    </>
   );
 }
 
